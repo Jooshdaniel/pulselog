@@ -36,7 +36,7 @@ pulselog/
 │   └── detection/
 ├── docker-compose.yml
 ├── requirements.txt
-└── README.md
+└── README.md 
 
 ---
 
@@ -59,3 +59,4 @@ http://localhost:8000
 Interactive API documentation is available at:
 
 http://localhost:8000/docs
+
